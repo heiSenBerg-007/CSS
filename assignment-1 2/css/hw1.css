@@ -15,8 +15,10 @@ header
 
 h1
 {
+	  background-color: rgba(0, 0, 0, 0);
   text-align: center;
 	color: #ffffff  ;
+	
 	font-size: 60px;
   font-weight: bold;
 	text-transform: uppercase;
