@@ -1,0 +1,35 @@
+header
+{
+  background-color: #B8F9AC;
+}
+
+h1
+{
+  text-align: center;
+  color: #04006E;
+  text-transform: uppercase;
+  font-family: "Cooper Black", sans-serif;
+}
+
+h2
+{
+  color: #7D0101;
+  text-transform: uppercase;
+  font-family: "Cooper Black", sans-serif;
+}
+
+section
+{
+  background-color: #9FEEFF;
+}
+
+a
+{
+	color: #650057;
+	background-color: #FFC4F7;
+	font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+}
+
+img {
+	display: none;
+}
